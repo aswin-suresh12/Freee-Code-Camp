@@ -1,4 +1,4 @@
-# Freee-Code-Camp - Cat and Dog Image Classifier using CNN (Binary Classification)
+# Free-Code-Camp - Cat and Dog Image Classifier using CNN (Binary Classification)
 
 
 #**Objective**
